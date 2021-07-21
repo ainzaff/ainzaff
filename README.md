@@ -6,15 +6,14 @@
 <--
 
 - 🔭 I’m currently working on ...
-- Flutter Projects
-- UM Hackathon 2021
+    - Flutter Projects
+    - UM Hackathon 2021
 
 - 🌱 I’m currently learning ...
-- Flutter
-- Microsoft Azure
+    - Flutter
+    - Microsoft Azure
 
-- 📫 How to reach me: ...
-- azaffry17@gmail.com
+- 📫 How to reach me: azaffry17@gmail.com
 
 - 📖 Languages I have learned: 
 ![](https://img.shields.io/badge/-Java-red) ![](https://img.shields.io/badge/-Dart-red) ![](https://img.shields.io/badge/-C-red) 
