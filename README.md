@@ -1,16 +1,28 @@
+
+[![Header](https://raw.githubusercontent.com/ainzaff/<OWNER>/<OWNER>/header.png "Header")]
+
 ### Hi there 👋
 
-<!--
-**ainzaff/ainzaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<--
 
 - 🔭 I’m currently working on ...
+- Flutter Projects
+- UM Hackathon 2021
+
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- Flutter
+- Microsoft Azure
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- azaffry17@gmail.com
+
+- 📖 Languages I have learned: ...
+- Java
+- C
+- Dart
+
+- 🔨 I've had experience using ...
+- Flutter
+- PostGreSQL
+- Neo4J
 -->
