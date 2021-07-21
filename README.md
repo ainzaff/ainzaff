@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/ainzaff/ainzaff/blob/master/header.png?raw=true "Header")]
+![Header](https://github.com/ainzaff/ainzaff/blob/master/header.png?raw=true "Header")
 
 ### Hi there 👋
 
