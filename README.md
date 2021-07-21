@@ -17,13 +17,9 @@
 - azaffry17@gmail.com
 
 - 📖 Languages I have learned: ...
-- ![](https://img.shields.io/badge/-java-red)
-
-- C
-- Dart
+![](https://img.shields.io/badge/-Java-red) ![](https://img.shields.io/badge/-Dart-red) ![](https://img.shields.io/badge/-C-red) 
 
 - 🔨 I've had experience using ...
-- Flutter
-- PostGreSQL
-- Neo4J
+![](https://img.shields.io/badge/-Flutter-blue) ![](https://img.shields.io/badge/-PostGreSQL-blue) ![](https://img.shields.io/badge/-Neo4J-blue) 
+
 -->
