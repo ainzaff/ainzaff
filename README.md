@@ -17,7 +17,8 @@
 - azaffry17@gmail.com
 
 - 📖 Languages I have learned: ...
-- Java
+- ![](https://img.shields.io/badge/-java-red)
+
 - C
 - Dart
 
