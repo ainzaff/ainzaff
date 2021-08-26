@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning ...
     - Flutter
     - Microsoft Azure
+    - JavaScript
 
 - 📫 How to reach me: azaffry17@gmail.com
 
